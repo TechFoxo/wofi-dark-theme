@@ -1,10 +1,10 @@
-# wofi-arc-dark
+# wofi-dark-theme
 
-A stylesheet recreating the arc-dark theme for wofi.
+A dark theme for wofi for my config(dotfiles).
 
 ## Showcase
 
-![Showcase](./pics/showcase.png)
+No showcase currently. Will add later
 
 ## Install
 
